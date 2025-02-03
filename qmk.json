@@ -1,4 +1,7 @@
 {
     "userspace_version": "1.0",
-    "build_targets": []
+    "build_targets": [
+        ["ferris/sweep", "tzejan"],
+        ["planck/rev6", "tzejan"]
+    ]
 }
