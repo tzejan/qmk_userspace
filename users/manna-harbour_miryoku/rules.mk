@@ -10,10 +10,6 @@ KEY_OVERRIDE_ENABLE = yes
 
 INTROSPECTION_KEYMAP_C = manna-harbour_miryoku.c # keymaps
 
-# Bootloader selection
-BOOTLOADER = caterina
-SPLIT_KEYBOARD = yes
-
 include $(USER_PATH)/custom_rules.mk
 
 include $(USER_PATH)/post_rules.mk
